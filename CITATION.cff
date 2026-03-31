@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-# preferred-citation:
+preferred-citation:
   type: article
   authors:
   - family-names: "Nassar"
     given-names: "Mohamed"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0000-0003-0576-5486"
   - family-names: "Zhao"
     given-names: "Yunfei"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0000-0003-1314-4081"
   doi: "10.1109/TR.2026.3678820"
   journal: "IEEE Transactions on Reliability"
   month: 3
