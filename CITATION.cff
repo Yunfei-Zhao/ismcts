@@ -2,7 +2,7 @@ cff-version: 1.2.0
 title: "Quantitative Analysis of Complex Fault Trees Using Importance Sampling with Monte Carlo Tree Search"
 authors:
   - family-names: "Nassar"
-    given-names: "Mohamed Y."
+    given-names: "Mohamed"
   - family-names: "Zhao"
     given-names: "Yunfei"
 journal: "IEEE Transactions on Reliability"
