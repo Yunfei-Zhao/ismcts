@@ -1,11 +1,20 @@
 cff-version: 1.2.0
-title: "Quantitative Analysis of Complex Fault Trees Using Importance Sampling with Monte Carlo Tree Search"
-authors:
+message: "If you use this software, please cite it as below."
+preferred-citation:
+  type: article
+  authors:
   - family-names: "Nassar"
     given-names: "Mohamed"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
   - family-names: "Zhao"
     given-names: "Yunfei"
-journal: "IEEE Transactions on Reliability"
-year: 2026
-doi: "10.1109/TR.2026.3678820"
-type: article
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.1109/TR.2026.3678820"
+  journal: "IEEE Transactions on Reliability"
+  month: 3
+  start: 1 # First page number
+  end: 15 # Last page number
+  title: "Quantitative Analysis of Complex Fault Trees Using Importance Sampling with Monte Carlo Tree Search"
+#  issue: 1
+#  volume: 1
+  year: 2026
